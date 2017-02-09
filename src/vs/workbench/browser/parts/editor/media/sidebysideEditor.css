@@ -4,9 +4,9 @@
  *--------------------------------------------------------------------------------------------*/
 
 .vs-dark .side-by-side-editor > .master-editor-container {
-	box-shadow: -6px 0 5px -5px black;
+	box-shadow: -2px 0 4px rgba(0, 0, 0, 0.4);
 }
 
 .side-by-side-editor > .master-editor-container {
-	box-shadow: -6px 0 5px -5px #DDD;
+	box-shadow: -2px 0 4px rgba(0, 0, 0, 0.1);
 }
